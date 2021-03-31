@@ -1,0 +1,10 @@
+
+Codigo:55547
+Nome:batedeira
+Valor:R$147.55
+Tipo:Eletrodoméstico
+
+Codigo:515141
+Nome:dddd
+Valor:R$151515.0
+Tipo:Eletrodoméstico
